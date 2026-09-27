@@ -1,0 +1,4 @@
+financial-nlp-toolkit
+# apt-get install ffmpeg
+numpy==1.18.5
+spleeter

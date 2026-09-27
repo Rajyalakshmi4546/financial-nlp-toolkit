@@ -1,0 +1,3 @@
+financial-nlp-toolkit
+torch
+transformers
